@@ -9,7 +9,8 @@
     "3.10",
     "3.12",
     "3.12.2",
-    "3.14"
+    "3.14",
+    "3.16"
   ], 
   "url": "https://github.com/orangeshirt/gnome-shell-extension-touchpad-indicator", 
   "uuid": "touchpad-indicator@orangeshirt", 
